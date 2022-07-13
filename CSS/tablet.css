@@ -1,6 +1,6 @@
 .main-tables-container{
     display: flex;
-    width: 930px;
+    width: 930px; // check this one 
     margin: 0 auto;
 }
 
